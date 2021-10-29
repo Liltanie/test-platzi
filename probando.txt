@@ -1,3 +1,5 @@
 Hola, esta soy yo probando.
 
-Cowsay y lolcat son lo mejor de linux. (bueno, tampoco conozco mucho de linux)
+Cowsay es lo mejor de linux.
+
+que linda es galu
