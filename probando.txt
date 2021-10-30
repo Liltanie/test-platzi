@@ -4,4 +4,6 @@ Cowsay es lo mejor de linux.
 
 Master 1
 
+Master 2
+
 que linda es galu
