@@ -1,5 +1,11 @@
 body {
 	text-align: center;
-	font-family: Arial, Helvetica, sans-serif;
-	color: deeppink;
+	font-family: monospace;
+	color: #000;
+}
+
+.post {
+	border: 2px solid #000;
+	width: 50vw;
+	margin: 5em auto;
 }
