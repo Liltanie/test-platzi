@@ -9,3 +9,4 @@ Un blog increible para el curso de Git y Github de Platzi.
 ## Cosas de relleno
 
 - Me gusta este emoji 🥰
+- Aguante Haruki
