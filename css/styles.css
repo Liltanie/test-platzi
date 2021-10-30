@@ -22,3 +22,7 @@ header img {
 	width: 50vw;
 	margin: 5em auto;
 }
+
+.post img {
+	height: 5em;
+}
